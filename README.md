@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Flockyofficial
+- 👀 I’m interested in data analysis jobs
+- 🌱 I’m currently learning numpy and pandas
+- 💞️ I’m looking to collaborate on any project you have 
+- 📫 How to reach me through my email,,sgicheha40@gmail.com
+- mobile [+254 742376232]
